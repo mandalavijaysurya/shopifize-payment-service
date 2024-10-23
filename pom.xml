@@ -67,6 +67,14 @@
             <version>1.4.7</version>
         </dependency>
 
+        <!-- Stripe Dependency -->
+
+        <dependency>
+            <groupId>com.stripe</groupId>
+            <artifactId>stripe-java</artifactId>
+            <version>27.0.0</version>
+        </dependency>
+
         <!-- Test Dependencies -->
 
         <dependency>
